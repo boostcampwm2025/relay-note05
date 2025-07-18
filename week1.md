@@ -95,3 +95,25 @@ TEXT-to-IMAGE AI는 **그 감정을 시각적으로 표현하는 수단**이 될
 
 그렇게 매일의 감정을 이미지로 남기는 활동은 단순한 기록을 넘어,  
 **기술을 활용한 감정 루틴**, 그리고 **자기 인식의 새로운 방법**이 될 수 있습니다.
+
+## AI를 통한 README 자동 요약
+
+### 대상 파일 수집
+  1. Gist API를 통해 gist의 README를 자동으로 가져오도록 구성
+  2. [README.md](http://README.md)의 RAW를 이용해서 Get 요청을 통해 바로 README.md의 내용을 가져옴
+
+### 요약
+  1. OpenAI API를 통해 가져온 README의 내용을 요약
+
+### 자동화
+  1. Python 스크립트로 처리
+  2. 크론탭 or GitHub Action을 통해 자동 실행
+     - Python 스크립트
+       - 가져온 README.md의 내용을 OpenAI API를 통해 요약
+       - 요약 내용을 바탕으로 Summary.md를 생성
+     - Summary를 gist에 push
+
+### 문제 가능성
+
+- secret gist 문제
+  - GitHub Actions을 통해 자동화를 진행한다면 별도의 인증이 필요없음
