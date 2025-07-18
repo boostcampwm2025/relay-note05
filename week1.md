@@ -117,3 +117,44 @@ TEXT-to-IMAGE AI는 **그 감정을 시각적으로 표현하는 수단**이 될
 
 - secret gist 문제
   - GitHub Actions을 통해 자동화를 진행한다면 별도의 인증이 필요없음
+
+---
+
+## 퀘스트 4: AI에게 배우기, 더 똑똑하게 공부하는 루틴 만들기
+
+### 배경
+요즘 미션을 수행할 때, 단순히 "제출"을 넘어서 진짜 나의 것으로 만들고 싶다는 욕심이 생깁니다.
+
+개념을 더 깊이 파고들고 싶은데,막상 구글링을 하면 </br>
+“무엇을 검색해야 할지도 모르겠고”, “정보는 너무 흩어져 있거나 피상적”이라 시간만 날릴 때가 많았습니다.
+
+그러다 문득 이런 생각이 들었습니다. "AI에게 미션을 설명하면, 내가 찾고 싶은 자료들을 더 잘 정리해주지 않을까?"
+
+그래서 생성형 AI를 "진짜 학습 파트너" 처럼 써보는 것이 퀘스트의 목표입니다.
+
+
+### 활용해 볼 수 있는 도구
+#### 1. Perplexity
+- 검색 + AI 요약.
+- 핵심 정보 요약과 함께 출처도 함께 제공돼서 학습 신뢰도 UP
+
+<img width="400" height="767" alt="스크린샷 2025-07-18 오후 4 35 10" src="https://github.com/user-attachments/assets/64ebac4b-e285-4424-9472-e581eb97d433" />
+
+<img width="400" height="742" alt="스크린샷 2025-07-18 오후 4 53 25" src="https://github.com/user-attachments/assets/9feec3ef-296e-4642-abd5-8866960d8cd3" />
+
+
+
+#### 2. DBpia
+- 국내 논문 기반 리서치
+- 전공 과목이나 이론적 뒷받침이 필요할 때 사용 가능
+
+  
+<img width="400" height="390" alt="스크린샷 2025-07-18 오후 4 42 43" src="https://github.com/user-attachments/assets/5551f6d3-cac0-4a5a-b47c-f7b45b5af2a3" />
+
+<img width="400" height="901" alt="스크린샷 2025-07-18 오후 4 42 50" src="https://github.com/user-attachments/assets/b8742263-c7c1-4f20-a8c5-f3ee3973e455" />
+
+
+#### 3. Phind
+- 개발자용 Perplexity 느낌
+- 실무 코드, CS 개념, 레퍼런스를 실전 위주로 찾아줌
+- 출처: https://yozm.wishket.com/magazine/detail/1944/
