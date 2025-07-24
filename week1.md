@@ -451,10 +451,16 @@ summarize:
   - 단조로운 학습 기록에 시각적 요소를 더함으로써 더 미션에 몰입할 수 있을거같다
 
 <details>
-<summary>수행한 퀘스트 펼쳐 보기/닫기</summary>
+<summary>Ⓜ️수행한 퀘스트 펼쳐 보기/닫기</summary>
 <div markdown="1">
 
-- content
+## 퀘스트 1
+
+<img width="700" height="1000" alt="Image" src="https://buly.kr/15PCrdD" />
+
+## 퀘스트 2
+
+<img width="700" height="1000" alt="Image" src="https://buly.kr/FsIrGH7" />
 
 </div>
 </details>
