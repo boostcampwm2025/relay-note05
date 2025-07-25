@@ -198,7 +198,7 @@ TEXT-to-IMAGE AI는 **그 감정을 시각적으로 표현하는 수단**이 될
 
 
 <details>
-<summary>Ⓜ️수행한 퀘스트 펼쳐 보기/닫기</summary>
+<summary>⚓ 수행한 퀘스트 펼쳐 보기/닫기</summary>
 <div markdown="1">
 
 ### 퀘스트 2.
@@ -238,7 +238,7 @@ TEXT-to-IMAGE AI는 **그 감정을 시각적으로 표현하는 수단**이 될
 - [What is Pub/Sub Architecture?](https://www.geeksforgeeks.org/system-design/what-is-pub-sub/)
 
 </div>
-<details>
+</details>
 
 
 ### J064 김재민 🤿 (퀘스트 완료!✅)
