@@ -196,6 +196,51 @@ TEXT-to-IMAGE AI는 **그 감정을 시각적으로 표현하는 수단**이 될
   - 퀘스트 4. AI 자료 추천
     > AI 답변을 검증없이 받아드리곤 하는데, 이러한 버릇을 의식적으로 고치기 위한 좋은 루틴이 될 수 있을 것 같다.
 
+
+<details>
+<summary>Ⓜ️수행한 퀘스트 펼쳐 보기/닫기</summary>
+<div markdown="1">
+
+### 퀘스트 2.
+
+<img width="1072" height="1332" alt="릴프퀘스트2" src="https://gist.github.com/user-attachments/assets/ca01ee35-4a75-4d79-8841-a26c52dbc489" />
+
+### 퀘스트 4.
+#### day6
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object_prototypes)
+- [javascript.info](https://ko.javascript.info/)
+- [W3school](https://www.w3schools.com/js/js_objects.asp)
+- [You Don't know JS](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed)
+- [모던 자바스크립트 Deep Dive](https://poiemaweb.com/)
+- [블로그](https://velog.io/@radin/prototype)
+
+#### day7
+
+- [Understanding and Characterizing Mock Assertions in Unit Tests](https://arxiv.org/pdf/2503.19284)
+- [Test Assertion Guide](https://www.w3.org/2006/03/test-assertion-guide)
+- [What is Mocking? An Introduction to Test Doubles](https://www.geeksforgeeks.org/software-testing/what-is-mocking-an-introduction-to-test-doubles/)
+- [Test Runner](https://zetcode.com/terms-testing/test-runner/)
+- [The Linux Kernel Index Nodes](https://www.kernel.org/doc/html/latest/filesystems/ext4/inodes.html)
+- [ext4 Data Structures and Algorithms](https://www.kernel.org/doc/html/latest/filesystems/ext4/)
+- [FAT Filesystem](https://elm-chan.org/docs/fat_e.html#notes)
+- [windows NT file system](https://ntfs.com/ntfs_basics.htm)
+- [NTFS overview](https://learn.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview)
+- [ext4 블로그 설명](https://ddongwon.tistory.com/66)
+
+#### day8
+- [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+- [currying-linkedin](https://www.linkedin.com/advice/0/what-currying-functional-programming-how-can-you-bfyhe)
+- [What is currying in JavaScript?](https://blog.logrocket.com/understanding-javascript-currying/)
+
+#### day9
+- [Publisher-Subscriber pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber)
+- [Ably: What is Pub/Sub?](https://ably.com/topic/pub-sub)
+- [What is Pub/Sub Architecture?](https://www.geeksforgeeks.org/system-design/what-is-pub-sub/)
+
+</div>
+<details>
+
+
 ### J064 김재민 🤿 (퀘스트 완료!✅)
 
 #### 수락한 퀘스트 :
