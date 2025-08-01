@@ -59,11 +59,11 @@ AI를 수련의 도구로 삼아 진정한 개발자이자 지식 마법사가 �
 
 ## 🧚 퀘스트 상세
 
-### 1주차 퀘스트 상세 보러가기 ➡️ [week1미션](https://github.com/boostcampwm2025/relay-note05/blob/main/week1.md)
+### [week1미션](https://github.com/boostcampwm2025/relay-note05/blob/main/week1.md)
 
-### 2주차 퀘스트 상세 보러가기 ➡️ [week2미션](https://github.com/boostcampwm2025/relay-note05/blob/main/week2.md)
+### [week2미션](https://github.com/boostcampwm2025/relay-note05/blob/main/week2.md)
 
-### 3주차 퀘스트 상세 보러가기 ➡️ [week3미션](https://github.com/boostcampwm2025/relay-note05/blob/main/week3.md)
+### [week3미션](https://github.com/boostcampwm2025/relay-note05/blob/main/week3.md)
 
 ---
 
