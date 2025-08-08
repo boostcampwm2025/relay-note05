@@ -264,4 +264,24 @@ AI는 요구사항을 해석해 테스트를 설계할 수 있는 똑똑한 동�
 - 명언 추천에 더해서 AI가 남겨준 응원의 한 마디도 하루를 시작하는데 작은 원동력이 되었어요.
 - 다른 캠퍼 분들께 남기는 짧은 메시지와 함께 슬랙에 공유하면서 커뮤니티 활동까지 챙길 수 있었습니다!
 - 굳이 AI를 쓰지 않아도 되는 활동이었지만, 이런 퀘스트가 없었다면 개발자 명언 같은 건 찾아볼 생각도 안했을 저라는 걸 알기에.. 
-- 행동의 계기가 되어준 작지만 의미있는 퀘스트였습니다. 
+- 행동의 계기가 되어준 작지만 의미있는 퀘스트였습니다.
+
+---
+#### J284 한지혜 - 3️⃣ 용사의 성장: 일상 퀘스트
+
+<details>
+  <summary>퀘스트 수행 내용</summary>
+  <img width="1024" height="1536" alt="list_day16_gpt" src="https://gist.github.com/user-attachments/assets/64a0b94f-54f5-4c59-9bbd-f730d4d733e5" />
+    
+<img width="512" height="512" alt="list_day17_Gemini" src="https://gist.github.com/user-attachments/assets/0d7f92e5-2708-41a8-abe3-affd1d57e816" />
+
+<img width="1680" height="2219" alt="list_day18_claude" src="https://gist.github.com/user-attachments/assets/ad57bd0e-e3e5-4e7d-89ed-3935c08187db" />
+
+<img width="1024" height="1536" alt="list_day19_gpt" src="https://gist.github.com/user-attachments/assets/22333303-392c-48cf-9ef0-e67233fe0871" />
+-3b63a0099107" />
+
+</details>
+
+#### 퀘스트 결과
+
+#### 느낀 점
