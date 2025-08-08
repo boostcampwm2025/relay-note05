@@ -271,17 +271,34 @@ AI는 요구사항을 해석해 테스트를 설계할 수 있는 똑똑한 동�
 
 <details>
   <summary>퀘스트 수행 내용</summary>
-  <img width="1024" height="1536" alt="list_day16_gpt" src="https://gist.github.com/user-attachments/assets/64a0b94f-54f5-4c59-9bbd-f730d4d733e5" />
+여러 종류의 AI를 사용했습니다. 
+순서대로 GPT -> Gemini -> claude -> GPT 가 제작한 이미지입니다. 
+
+```
+👨‍💻 프롬프트:
+    이 체크리스트를 기반으로 RPG게임 퀘스트 처럼 달성도를 이미지로 만들어줄래? 부캠 챌린지 **일차의 체크리스트야!
+    ## 나만의체크리스트
+(...)
+```
+
+<img width="1024" height="1536" alt="list_day16_gpt" src="https://gist.github.com/user-attachments/assets/64a0b94f-54f5-4c59-9bbd-f730d4d733e5" />
     
 <img width="512" height="512" alt="list_day17_Gemini" src="https://gist.github.com/user-attachments/assets/0d7f92e5-2708-41a8-abe3-affd1d57e816" />
 
 <img width="1680" height="2219" alt="list_day18_claude" src="https://gist.github.com/user-attachments/assets/ad57bd0e-e3e5-4e7d-89ed-3935c08187db" />
 
 <img width="1024" height="1536" alt="list_day19_gpt" src="https://gist.github.com/user-attachments/assets/22333303-392c-48cf-9ef0-e67233fe0871" />
--3b63a0099107" />
 
 </details>
 
 #### 퀘스트 결과
+- `뿌듯함` **+40**
+- `미감` **+15**
 
 #### 느낀 점
+- 하루 목표에 대한 저의 달성도를 RPG 느낌의 이미지로 시각화해서 보니 뿌듯함이 배가 되었습니다.
+- 달성도를 높이자는 긍정적인 동기 부여가 되었습니다.
+- AI별 이미지 생성 능력에 대해 평가할 수 있었습니다.
+  - Gemini: 체크리스트를 주면 자꾸 항목을 영어로 번역해 이미지를 생성해주길래, 한국어로 생성해달라고 요청했으나 '그건 불가능하다.'라는 답변이 돌아왔습니다. 완성도가 별로였습니다. 이미지 생성에 대해서는 가장 실망한 AI였습니다.
+  - Claude: png 파일을 생성해주지 않습니다. html 형식의 결과를 반환해줬습니다. 그래도 완성도는 좋았습니다. 
+  - GPT: 가장 무난한 것 같습니다. 글자가 깨지기는 하지만, 디자인은 개인적으로 제일 마음에 들었습니다.
